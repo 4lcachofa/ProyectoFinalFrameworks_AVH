@@ -25,7 +25,6 @@
               "src/styles.css"
             ],
             "scripts": [],
-
             "server": "src/main.server.ts",
             "prerender": true,
             "ssr": {
@@ -41,7 +40,6 @@
               "optimization": true,
               "sourceMap": false,
               "namedChunks": false,
-              "vendorChunk": false,
               "extractLicenses": true,
 
               "budgets": [
